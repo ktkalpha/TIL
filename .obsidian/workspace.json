@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "342d0e6aa9e036c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "60a9b87667eaa00d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6186a8ffce1cd09",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75353d8e365e62cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "95f9923e4349d1e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e18cbe43b042db5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d77d093802e79b02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5912566d242c7f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5026054382324
+  },
+  "right": {
+    "id": "04d37d8cfdaf23c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e16d467232cca10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79d96b749542e2dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f48d4dc02d954f2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f33ab1a8b38618ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3a7a335c1755161",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "6e18cbe43b042db5",
+  "lastOpenFiles": [
+    "TIL",
+    "무제 파일.md",
+    "도덕 정리맨.md",
+    "Drawing 2024-06-26 20.51.57.excalidraw.md",
+    "📚 공부/1. ℹ️ 정보 통신 윤리.md",
+    "시험.md",
+    "📚 공부"
+  ]
+}
